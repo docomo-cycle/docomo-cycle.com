@@ -1,3 +1,21 @@
 baseURL = "http://docomo-cycle.com/"
 languageCode = "ja-JP"
 title = "docomo-cycle.com"
+theme = "photo-grid"
+
+[params]
+    # Meta
+    no_exif = false
+    title = "docomo-cycle Gallery"
+    subtitle = "I'd like to collect landscape photos of bicycles."
+    author = "docomo-cycle.com"
+    description = "docomo-cycle Gallery"
+    keywords = "docomo-cycle, share bike, bike share, 赤チャリ"
+
+    bodybgcolor = "#3d3d3d"
+    bodytextcolor = "#f2f2f2"
+
+    # Footer
+    copyright_since_year = 2013
+    copyright_text = "All images"
+
