@@ -1,5 +1,5 @@
 baseURL = "http://docomo-cycle.com/"
-languageCode = "ja-JP"
+languageCode = "ja"
 title = "#自転車のある風景"
 theme = "photo-grid"
 
