@@ -10,7 +10,7 @@ canonifyurls = true
 [params]
     # Meta
     no_exif = false
-    title = "a landscape picture with a bicycle"
+    title = "a landscape picture with bicycles"
     # subtitle = "I'd like to collect landscape photos of bicycles."
     author = "docomo-cycle.com"
     description = "docomo-cycle Gallery"
