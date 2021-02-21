@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>#自転車のある風景</title>
-    <link>http://docomo-cycle.com/</link>
+    <link>https://docomo-cycle.com/</link>
     <description>Recent content on #自転車のある風景</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     
-	<atom:link href="http://docomo-cycle.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://docomo-cycle.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>contents sample</title>
-      <link>http://docomo-cycle.com/photo/20210221_1st_correct/</link>
+      <link>https://docomo-cycle.com/photo/20210221_1st_correct/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://docomo-cycle.com/photo/20210221_1st_correct/</guid>
+      <guid>https://docomo-cycle.com/photo/20210221_1st_correct/</guid>
       <description></description>
     </item>
     
