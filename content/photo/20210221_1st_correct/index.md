@@ -43,4 +43,34 @@ resources:
   params:
     description: とても古そうな自転車を京都で見かけました。絵になるなぁ、と思いつつよく見ると所々回転部品の周りは奇麗な所もあったりして、まさかもしかして現役？！
 
+- src: not_park_illegally.jpg
+  name: 違法駐輪はやめよう
+  params:
+    description: 違法駐輪はやめましょう。ここ、駐輪場のすぐ脇なんですけれど良く違法に駐輪されている場所です。しかしこう、とてもきれいに整列して並べるあたりは日本人って所でしょうか。
+
+- src: ferrary-lol.jpg
+  name: フェラーリ
+  params:
+    description: 横浜中華街で見かけた"フェラーリ" カッコいいです。
+
+- src: hokkaido-makomanai.jpg
+  name: GIOS Pantoで旅した@札幌、真駒内滝野霊園
+  params:
+    description: 北海道札幌市の真駒内にある霊園にはなぜか大仏やモアイ像があります。しかも結構デカくて立派。
+
+- src: 2011_first_sunrise.jpg
+  name: 2011年の初日の出＠九十九里海岸
+  params:
+    description: 千葉駅に早朝に集合して九十九里までサイクリング、初日の出を拝みに来ました。
+
+- src: nanohana_gios.jpg
+  name: 菜の花畑とGIOS Panto@江戸川CR
+  params:
+    description: 3月下旬から4月にかけて江戸川CR添いは菜の花に埋め尽くされます。黄色い菜の花にGiosブルーが映えますね
+
+- src: onjuku_bd-1.jpg
+  name: 月の砂漠とBD-1
+  params:
+    description: 千葉県の御宿にある海岸で撮影しました。童謡『月の砂漠』のモデルとなった海岸で記念碑が建てられています。自由にのびのびと自転車と愉しむ人生を送りたいですね。
+
 ---
