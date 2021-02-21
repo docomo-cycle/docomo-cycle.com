@@ -1,6 +1,6 @@
 baseURL = "http://docomo-cycle.com/"
 languageCode = "ja-JP"
-title = "docomo-cycle.com"
+title = "#自転車のある風景"
 theme = "photo-grid"
 
 # github pages対応
