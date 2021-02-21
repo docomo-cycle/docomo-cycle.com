@@ -3,6 +3,10 @@ languageCode = "ja-JP"
 title = "docomo-cycle.com"
 theme = "photo-grid"
 
+# github pages対応
+publishDir = "docs"
+canonifyurls = true
+
 [params]
     # Meta
     no_exif = false
