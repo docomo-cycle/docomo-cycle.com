@@ -10,5 +10,6 @@ services:
             - "1313:1313"
         tty: true
         working_dir: /src
-        command: hugo server -w -D --disableFastRender
+        #command: hugo server -w -D --disableFastRender
+        command: hugo 
 
